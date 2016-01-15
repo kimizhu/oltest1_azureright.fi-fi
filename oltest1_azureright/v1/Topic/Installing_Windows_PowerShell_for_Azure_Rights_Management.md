@@ -3,57 +3,74 @@ description: na
 keywords: na
 title: Installing Windows PowerShell for Azure Rights Management
 search: na
-ms.date: 2015-12-01
+ms.date: na
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0d665ed6-b1de-4d63-854a-bc57c1c49844
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
-# Installing Windows PowerShell for Azure Rights Management
-Use the following information to help you install Windows PowerShell for Microsoft [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] (Azure RMS).
+# Windows PowerShellin asentaminen oikeuksien hallintaa varten
+[!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] -palvelua voidaan hallita Windows PowerShellin avulla kaikissa seuraavat vaatimukset täyttävissä järjestelmissä:
 
-You can use this Windows PowerShell module to administer [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] from the command line by using any computer that has an Internet connection and that meets the prerequisites listed in the next section. Windows PowerShell for [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] supports scripting for automation or might be necessary for advanced configuration scenarios. For more information about the administration tasks and configurations that the module supports, see [Administering Azure Rights Management by Using Windows PowerShell](../Topic/Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md).
+-   Windows Vista, Windows 7, Windows Server 2008 R2
 
-## Prerequisites
-This table lists the prerequisites to install and use Windows PowerShell for [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)].
+    > [!NOTE]
+    > Mitä tulee Windows Server 2008 R2 -järjestelmään, vain x64-ympäristöä tuetaan alkuperäistilassa. WOW64, joka mahdollistaa 32-bittisen emuloinnin 64-bittisissä ympäristöissä, ei ole tuettu.
 
-|Requirement|More information|
-|---------------|--------------------|
-|A version of Windows that supports the [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] administration module|Check the list of supported operating systems in the **System Requirements** section of the [download page for the Azure Rights Management Administration Tool](http://go.microsoft.com/fwlink/?LinkId=257721).|
-|Minimum version of Windows PowerShell: 2.0|Support for the [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] administration module is introduced in Windows PowerShell 2.0.<br /><br />By default, most Windows operating systems install with at least version 2.0 of Windows PowerShell. If you need to install Windows PowerShell 2.0, see [Install Windows PowerShell 2.0](http://msdn.microsoft.com/library/ff637750.aspx).<br /><br />Tip: You can confirm the version of Windows PowerShell that you are running by typing **$PSVersionTable** in a Windows PowerShell session.|
-|Minimum version of the Microsoft .NET Framework: 4.5<br /><br />Note: This version of the Microsoft .NET Framework is included with the later operating systems, so you should  need to manually install it only if your client operating system is less than Windows 8.0 or your server operating system is less than Windows Server 2012.|If the minimum version of the  Microsoft .NET Framework is not already installed, you can download [Microsoft .NET Framework 4.5](http://www.microsoft.com/download/details.aspx?id=30653).<br /><br />This minimum version of the Microsoft .NET Framework is required for some of the classes that the [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] administration module uses.|
-|Microsoft Online Services Sign-In Assistant 7.0|The Microsoft Online Services Sign-In Assistant is required for [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] authentication.<br /><br />For more information, see [Download Center: Microsoft Online Services Assistant for IT Professionals RTW](http://www.microsoft.com/en-us/download/details.aspx?id=41950).|
+-   Windows PowerShell 2.0
 
-## How to install the Rights Management administration module
-
-1.  Go to the Microsoft Download Center and [download the Azure Rights Management Administration Tool](https://go.microsoft.com/fwlink/?LinkId=257721), which contains the [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] administration module for Windows PowerShell.
-
-2.  From the local folder where you downloaded and saved the [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] installer file, double-click the executable file that you downloaded for your platform (WindowsAzureADRightsManagementAdministration_x64 or WindowsAzureADRightsManagementAdministration_x86.exe) to start the Azure AD Rights Management Administration Setup Wizard.
-
-3.  Complete the wizard.
-
-Windows PowerShell for [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] is now installed.
-
-## Next steps
-To see which cmdlets are available, start Windows PowerShell with the **Run as administrator** option and type the following:
-
-```
-Get-Command -Module aadrm
-```
-Use `the Get-Help <cmdlet_name>` command to see the Help for a specific cmdlet.
-
-For more information:
-
--   Full list of cmdlets available: [Azure Rights Management Cmdlets](https://msdn.microsoft.com/library/windowsazure/dn629398.aspx)
-
--   List of main configuration scenarios that support Windows PowerShell: [Administering Azure Rights Management by Using Windows PowerShell](../Topic/Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md)
-
-Before you can run any commands that configure the [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] service, you must connect to the  service by using the [Connect-AadrmService](https://msdn.microsoft.com/library/windowsazure/dn629415.aspx) cmdlet. When you have finished running the configuration commands that you want, disconnect from the service by using the [Disconnect-AadrmService](https://msdn.microsoft.com/library/windowsazure/dn629416.aspx) cmdlet.
+-   Microsoft Online Services Sign-In Assistant 7.0
 
 > [!NOTE]
-> If you have not yet activated [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)], you can do this after you have connected to the service, by using the [Enable-Aadrm](https://msdn.microsoft.com/library/windowsazure/dn629412.aspx) cmdlet.
+> Microsoft Online Services Sign-In Assistant täytyy asentaa [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] -todennusta varten. Lisätietoja: [Download Center: Microsoft Online Services -palveluiden kirjautumisavustaja IT-asiantuntijoille RTW](http://www.microsoft.com/download/en/details.aspx?displaylang=en&amp;id=28177).
 
-## See Also
-[Administering Azure Rights Management by Using Windows PowerShell](../Topic/Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md)
+## Rights Management -hallintamoduulin käytön aloittaminen
+Jotta voit aloittaa [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] -käyttöönoton vuokraajatilissäsi, tee ensin joitakin kokoonpanomuutoksia.
+
+> [!NOTE]
+> Seuraavat toimet edellyttävät, että ensin asennetaan Microsoft .NET Framework 4.0. Lisätietoja: [http://www.microsoft.com/net/](http://www.microsoft.com/net/).
+
+#### Rights Management -hallintamoduulin asentaminen ja määrittäminen
+
+1.  Lataa [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] -palvelun Windows PowerShell -hallintamoduuli Download Centeristä.
+
+    [Windows PowerShellin Rights Management -moduulin lataaminen](http://go.microsoft.com/fwlink/?LinkId=257721)
+
+2.  Kaksoisnapsauta paikallisessa kansiossa, johon latasit ja tallensit [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] -asennusohjelmatiedoston, WindowsAzureADRightsManagementAdministration.exe-tiedostoa. [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] -hallintamoduulin asennus käynnistyy.
+
+3.  Avaa %WINDIR%\System32\WindowsPowerShell\v1.0-kansio ja varmista, että Powershell.exe.config-tiedosto sisältää seuraavat XML-tiedot:
+
+    ```
+    <?xml version="1.0"?> 
+    <configuration> 
+        <startup useLegacyV2RuntimeActivationPolicy="true"> 
+            <supportedRuntime version="v4.0.30319"/> 
+            <supportedRuntime version="v2.0.50727"/> 
+        </startup> 
+    </configuration>
+    ```
+
+4.  Avaa järjestelmänvalvojan oikeuksin suoritettava Windows PowerShell -komentokehote ja kirjoita seuraavat komennot moduulin tuomiseksi ja yhdistämiseksi [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] -asennukseen:
+
+    ```
+    Import-Module AADRM
+    Connect-AadrmService -Verbose
+    ```
+    Sinulta pyydetään tunnistetietoja.
+
+5.  Anna tunnistetiedot sellaiselta [!INCLUDE[o365_2](../Token/o365_2_md.md)] -käyttäjältä, jolla on organisaatiossa yleisen järjestelmänvalvojan oikeudet, ja odota todentamista.
+
+    > [!NOTE]
+    > Yleisillä järjestelmänvalvojilla on oletusarvoisesti [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] -hallintaoikeudet.
+
+    Kirjoita järjestelmänvalvojan oikeuksin suoritettavaan Windows PowerShell -kehoteikkunaan seuraava komento, joka ottaa [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] -palvelun käyttöön vuokraajatilissäsi.
+
+    ```
+    Enable-Aadrm
+    Disconnect-AadrmService
+    ```
+    > [!IMPORTANT]
+    > [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] -palvelu on oletusarvoisesti pois käytöstä, kun se on valmisteltu uuteen vuokraajatiliin. [!INCLUDE[aad_rightsmanagement_2](../Token/aad_rightsmanagement_2_md.md)] -ominaisuudet eivät ole vuokraajakäyttäjien käytettävissä, ennen kuin palvelu otetaan käyttöön tässä vaiheessa.
+
+    Kun nämä toimet on tehty, vuokraajan pitäisi olla käytössä.
 
