@@ -3,25 +3,30 @@ description: na
 keywords: na
 title: Verifying Azure Rights Management
 search: na
-ms.date: 2015-12-01
+ms.date: na
 ms.service: rights-management
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 08664a01-81a5-4fa5-884c-7306ee55dba0
-ms.author: e8f708ba3bce4153b61467184c747c7f
 ---
-# Verifying Azure Rights Management
-After you have activated [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] (Azure RMS) and performed any additional configuration steps that are required for your organization, you can verify that the service is working as expected by protecting a file or email message by using one  user account, and then attempting to open and use that protected content from another user account.
+# Oikeuksien hallinnan tarkistaminen
+Kun olet aktivoinut [!INCLUDE[aad_rightsmanagement_1](../Token/aad_rightsmanagement_1_md.md)] -palvelun, voit tarkistaa sen käytettävyyden yrittämällä julkaista suojattua sisältöä [!INCLUDE[Office](../Token/Office_md.md)]-sovelluksilla, kuten Microsoft Outlookilla ja Microsoft Wordilla, yhden [!INCLUDE[o365_1](../Token/o365_1_md.md)] -käyttäjätilin alaisuudessa ja yrittämällä sitten käyttää kyseistä sisältöä toisella käyttäjätilillä.
 
-To do this testing, you can use the information in [Helping Users to Protect Files by Using Azure Rights Management](../Topic/Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md).
+## Mitä haluat tehdä?
 
-If your testing is unsuccessful, review the configuration steps in [Azure Rights Management Deployment Roadmap](../Topic/Azure_Rights_Management_Deployment_Roadmap.md), and use the [RMS Analyzer tool](http://www.microsoft.com/en-us/download/details.aspx?id=46437) to help identify and fix potential problems. You can also run this tool periodically, as a general health check.
+-   Oikeuksien hallinnan tarkistus Microsoft Outlookilla
 
-> [!TIP]
-> If you need additional help, see the [Support options and community resources](../Topic/Information_and_Support_for_Azure_Rights_Management.md#BKMK_SupportOptions) section in the [Information and Support for Azure Rights Management](../Topic/Information_and_Support_for_Azure_Rights_Management.md) topic.
+-   Oikeuksien hallinnan tarkistus Microsoft Wordilla
 
-You can monitor how your organization is using information protection by using usage logging. For more information, see [Logging and Analyzing Azure Rights Management Usage](../Topic/Logging_and_Analyzing_Azure_Rights_Management_Usage.md).
+#### Oikeuksien hallinnan tarkistus Microsoft Outlookilla
 
-## See Also
-[Using Azure Rights Management](../Topic/Using_Azure_Rights_Management.md)
+1.  [Publishing Protected Content Using Outlook Email](http://msdn.microsoft.com/en-us/library/d429b572-142f-49da-9618-5401dae22679)
+
+2.  [Consuming Protected Content Using Outlook Email](http://msdn.microsoft.com/en-us/library/7c0f4ced-7610-402d-add7-7eefa9ba96e5)
+
+#### Oikeuksien hallinnan tarkistus Microsoft Wordilla
+
+1.  [Publishing Protected Content in a Word Document](http://msdn.microsoft.com/en-us/library/9f8c3d09-572a-459b-8872-5eb9f93e7def)
+
+2.  [Consuming Protected Content in a Word Document](http://msdn.microsoft.com/en-us/library/14f10ae3-0e0b-46d0-9d84-a9a70a19e9e1)
 
