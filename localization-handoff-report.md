@@ -1,24 +1,9 @@
-# <a name='report-top'></a> Localization Report
+# <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Property | Value 
- -------- | ----- 
- Total Files | 212
-[ Handoff Failed Files ](#handoff-failed-list)| 1
-[ Handoff Success Files ](#handoff-success-list)| 183
-[ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 0
-[ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
-[ Ignored Files ](#ignored-list)| 28
+ Total Files | 184
 
-## <a name='handoff-failed-list'></a> Handoff Failed File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [oltest1_azureright\v1\Topic\Revised_Version_2__Rights_Management_sharing_application_user_guide_-_working_version,_sandbox_only.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Revised_Version_2__Rights_Management_sharing_application_user_guide_-_working_version,_sandbox_only.md) | HandedOffFailed | [Details](#466188221411f9dd39f88ea09c37805909c7b26d184)
-
-## <a name='handoff-success-list'></a> Handoff Success File List
+## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [oltest1_azureright\v1\Image\4d269a30-a873-45c5-87de-30ee6558e7b0.gif](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/4d269a30-a873-45c5-87de-30ee6558e7b0.gif) | HandedOffSuccess | [Details](#a88e0dacb05ee102cc7a0aed64ac5032d1bd9f3d5)
@@ -180,6 +165,7 @@
  [oltest1_azureright\v1\Topic\Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md) | HandedOffSuccess | [Details](#b32088dd305d3f5dcdf48269680ca4482ccba271181)
  [oltest1_azureright\v1\Topic\Requirements_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Requirements_for_Azure_Rights_Management.md) | HandedOffSuccess | [Details](#17cf32c975fe76663b66f6c8d351786783b1e7b4182)
  [oltest1_azureright\v1\Topic\Requirements_for_Azure_Rights_Management__retired_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Requirements_for_Azure_Rights_Management__retired_.md) | HandedOffSuccess | [Details](#8754cdd92cb637f56eda91057cfafda9ef6fb260183)
+ [oltest1_azureright\v1\Topic\Revised_Version_2__Rights_Management_sharing_application_user_guide_-_working_version,_sandbox_only.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Revised_Version_2__Rights_Management_sharing_application_user_guide_-_working_version,_sandbox_only.md) | HandedOffFailed | [Details](#466188221411f9dd39f88ea09c37805909c7b26d184)
  [oltest1_azureright\v1\Topic\Revised_Version_3__Microsoft_Rights_Management_sharing_application_guide.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Revised_Version_3__Microsoft_Rights_Management_sharing_application_guide.md) | HandedOffSuccess | [Details](#edf30250379a6a1b4fff9a9351e4903e738fc86b185)
  [oltest1_azureright\v1\Topic\Rights_Management__RMS__Client.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management__RMS__Client.md) | HandedOffSuccess | [Details](#3b43eafb5096d10e33f64b4228fcc331d293415c186)
  [oltest1_azureright\v1\Topic\Rights_Management_sharing_application__Version_release_history.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Rights_Management_sharing_application__Version_release_history.md) | HandedOffSuccess | [Details](#5a124dc0ec9b75fef5d60b655203a064a6757d16187)
@@ -205,109 +191,7 @@
  [oltest1_azureright\v1\Topic\Welcome_to_Microsoft_RMS!.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Welcome_to_Microsoft_RMS!.md) | HandedOffSuccess | [Details](#def38e3602d690254d432936013d67e32d8de9af209)
  [oltest1_azureright\v1\Topic\Welcome_to_Microsoft_RMS!_Test.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Welcome_to_Microsoft_RMS!_Test.md) | HandedOffSuccess | [Details](#cdd179e0b22b76e33b843e3a33bfd16e9c2338e7210)
 
-## <a name='archive-failed-list'></a> Archive Failed File List
-
-## <a name='archive-success-list'></a> Archive Success File List
-
-## <a name='handback-failed-list'></a> Handback Failed File List
-
-## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
-
-## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
-
-## <a name='ignored-list'></a> Ignored File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [.gitignore](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.gitignore) | Ignored | [Details](#6b4edbda7411984fc9dbafbbb8e291e0bae6646d0)
- [.localization-config](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.localization-config) | Ignored | [Details](#6781a3daddbae435a6a4b5756fcc53f6b99321471)
- [.openpublishing.build.ps1](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.openpublishing.build.ps1) | Ignored | [Details](#06f04686df47f623e5fca8039712d22134e6d5a82)
- [.openpublishing.publish.config.json](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.openpublishing.publish.config.json) | Ignored | [Details](#365b95c72df1058964058041edb3e77f6970d2033)
- [oltest1_azureright\v1\docfx.json](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/docfx.json) | Ignored | [Details](#846564ce1da2f74fad9d1b40db0688c72ac3c2454)
- [oltest1_azureright\v1\Image\All_Symbols_Cloud.jpg](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/All_Symbols_Cloud.jpg) | Ignored | [Details](#811c78666692e6140b800b3f864f3d783e5712f123)
- [oltest1_azureright\v1\Image\AzRMS_RemoveProtectionWorkFolders.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_RemoveProtectionWorkFolders.png) | Ignored | [Details](#d6c391372decd8a5697f2ce2c4d5faa08bd302a855)
- [oltest1_azureright\v1\Image\AzRMS_Tutorial_1Draft.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_1Draft.png) | Ignored | [Details](#38472b7d61e3808cdc0f65a378be5cb1a5be270790)
- [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Final.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Final.png) | Ignored | [Details](#39f3a5bceb580f8cf0fb2117eb04f090874b62ba91)
- [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Final_50_.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Final_50_.png) | Ignored | [Details](#c5c3f0b043042b6cc2e8895bb4bca27e6762b08092)
- [oltest1_azureright\v1\Image\AzRMS_Tutorial_3_Final2.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_3_Final2.png) | Ignored | [Details](#0a855d29a709c18e0819ac5a4afd097f3d1f6f3d94)
- [oltest1_azureright\v1\Image\Azure-RMS_Step-4_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/Azure-RMS_Step-4_Cascade.png) | Ignored | [Details](#4e662625c2d4459b521253299e71e601c1f5401a101)
- [oltest1_azureright\v1\Image\Azure-RMS_Step-5_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/Azure-RMS_Step-5_Cascade.png) | Ignored | [Details](#fe55e2425573de7bbb0d402b4b4428aad8108098102)
- [oltest1_azureright\v1\Topic\Activating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Activating_Azure_Rights_Management.md) | Ignored | [Details](#9a4fa874a866c63638dcda1d9c5e686e12da70d2130)
- [oltest1_azureright\v1\Topic\Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md) | Ignored | [Details](#3bd27fb713e2b0a71289cd8028bc2d5406241eae132)
- [oltest1_azureright\v1\Topic\Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Azure_Rights_Management.md) | Ignored | [Details](#cdfcad34349b041ceb2743018e43db141a324d1b133)
- [oltest1_azureright\v1\Topic\Azure_Rights_Management_Deployment_Roadmap.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Azure_Rights_Management_Deployment_Roadmap.md) | Ignored | [Details](#a599911557dcb5d8756051257f6dbe19d222be8c134)
- [oltest1_azureright\v1\Topic\Comparing_Azure_Rights_Management_and_AD_RMS.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Comparing_Azure_Rights_Management_and_AD_RMS.md) | Ignored | [Details](#74a17e58ad433b9652b4b8974981841e90f0a088135)
- [oltest1_azureright\v1\Topic\Configuring_Applications_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Applications_for_Azure_Rights_Management.md) | Ignored | [Details](#3fff7a6d69b3be986f4be35ab0479d9e05502ac8136)
- [oltest1_azureright\v1\Topic\Configuring_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Azure_Rights_Management.md) | Ignored | [Details](#7b4ef01b63e49eff3eb6f518f0e0985911151b3d137)
- [oltest1_azureright\v1\Topic\Decommissioning_and_Deactivating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Decommissioning_and_Deactivating_Azure_Rights_Management.md) | Ignored | [Details](#f34c47bd3d784417b52e4b63c7bdea01374161cb141)
- [oltest1_azureright\v1\Topic\Getting_Started_with_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Getting_Started_with_Azure_Rights_Management.md) | Ignored | [Details](#cd268b3a52362794c148fd7033a2eb2b06ee5ded164)
- [oltest1_azureright\v1\Topic\How_Applications_Support_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/How_Applications_Support_Azure_Rights_Management.md) | Ignored | [Details](#fe22011f9a191f3c44848ed914624650b26596eb166)
- [oltest1_azureright\v1\Topic\Installing_Windows_PowerShell_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Installing_Windows_PowerShell_for_Azure_Rights_Management.md) | Ignored | [Details](#2ab8099a56e548e53ddcd499d64221efbe7b2373169)
- [oltest1_azureright\v1\Topic\Preparing_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Preparing_for_Azure_Rights_Management.md) | Ignored | [Details](#27f99957a9b9a560a127e6e3a4142ad0ba706d27175)
- [oltest1_azureright\v1\Topic\Using_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Using_Azure_Rights_Management.md) | Ignored | [Details](#9951dd37ad7cb7d3366da4e5d91d60cdcf09d3b9206)
- [oltest1_azureright\v1\Topic\Verifying_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Verifying_Azure_Rights_Management.md) | Ignored | [Details](#00d2f85391fa70bc782aef6db4a127730f9afc08207)
- [oltest1_azureright\v1\Topic\What_is_Azure_Rights_Management_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/What_is_Azure_Rights_Management_.md) | Ignored | [Details](#8590c552cf1c89ebecffa587090d3ab84711aa9e211)
-
 ## Item Details
-##### <a name='6b4edbda7411984fc9dbafbbb8e291e0bae6646d0'></a> Source: [.gitignore](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.gitignore)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='6781a3daddbae435a6a4b5756fcc53f6b99321471'></a> Source: [.localization-config](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.localization-config)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='06f04686df47f623e5fca8039712d22134e6d5a82'></a> Source: [.openpublishing.build.ps1](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.openpublishing.build.ps1)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='365b95c72df1058964058041edb3e77f6970d2033'></a> Source: [.openpublishing.publish.config.json](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/.openpublishing.publish.config.json)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='846564ce1da2f74fad9d1b40db0688c72ac3c2454'></a> Source: [oltest1_azureright\v1\docfx.json](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/docfx.json)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 ##### <a name='a88e0dacb05ee102cc7a0aed64ac5032d1bd9f3d5'></a> Source: [oltest1_azureright\v1\Image\4d269a30-a873-45c5-87de-30ee6558e7b0.gif](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/4d269a30-a873-45c5-87de-30ee6558e7b0.gif)
 * Status: HandedOffSuccess
 * Target File: 
@@ -540,18 +424,6 @@
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Dependency From: oltest1_azureright\v1\Topic\Microsoft_Rights_Management_sharing_application_user_guide_-_original_publication.md, oltest1_azureright\v1\Topic\Revised_Version_3__Microsoft_Rights_Management_sharing_application_guide.md, oltest1_azureright\v1\Topic\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md
-* [Back to Top](#report-top)
-
-##### <a name='811c78666692e6140b800b3f864f3d783e5712f123'></a> Source: [oltest1_azureright\v1\Image\All_Symbols_Cloud.jpg](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/All_Symbols_Cloud.jpg)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='d5706ab02931b13cbbdf38ac6e75703617dc7a0824'></a> Source: [oltest1_azureright\v1\Image\AzRMS.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS.png)
@@ -955,18 +827,6 @@
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Dependency From: oltest1_azureright\v1\Topic\Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md, oltest1_azureright\v1\Topic\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md
-* [Back to Top](#report-top)
-
-##### <a name='d6c391372decd8a5697f2ce2c4d5faa08bd302a855'></a> Source: [oltest1_azureright\v1\Image\AzRMS_RemoveProtectionWorkFolders.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_RemoveProtectionWorkFolders.png)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='7f4eac77d7cc3ea6f7769710ca483467345339f356'></a> Source: [oltest1_azureright\v1\Image\AzRMS_SecretColaFormula_final.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_SecretColaFormula_final.png)
@@ -1411,42 +1271,6 @@
 * Dependency From: oltest1_azureright\v1\Topic\Quick_Start_Tutorial_for_Azure_Rights_Management.md
 * [Back to Top](#report-top)
 
-##### <a name='38472b7d61e3808cdc0f65a378be5cb1a5be270790'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_1Draft.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_1Draft.png)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='39f3a5bceb580f8cf0fb2117eb04f090874b62ba91'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Final.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Final.png)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='c5c3f0b043042b6cc2e8895bb4bca27e6762b08092'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Final_50_.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Final_50_.png)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 ##### <a name='6920708cdf154d659afe01079401cbcc1c1c6ab193'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_2_Screenshots.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_2_Screenshots.png)
 * Status: HandedOffSuccess
 * Target File: 
@@ -1458,18 +1282,6 @@
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Dependency From: oltest1_azureright\v1\Topic\Quick_Start_Tutorial_for_Azure_Rights_Management.md
-* [Back to Top](#report-top)
-
-##### <a name='0a855d29a709c18e0819ac5a4afd097f3d1f6f3d94'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_3_Final2.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_3_Final2.png)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='579a3f016f81fe1213d1bcfbd23a7f94d9d8bcf795'></a> Source: [oltest1_azureright\v1\Image\AzRMS_Tutorial_3_Screenshots.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/AzRMS_Tutorial_3_Screenshots.png)
@@ -1548,30 +1360,6 @@
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Dependency From: oltest1_azureright\v1\Topic\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md
-* [Back to Top](#report-top)
-
-##### <a name='4e662625c2d4459b521253299e71e601c1f5401a101'></a> Source: [oltest1_azureright\v1\Image\Azure-RMS_Step-4_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/Azure-RMS_Step-4_Cascade.png)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='fe55e2425573de7bbb0d402b4b4428aad8108098102'></a> Source: [oltest1_azureright\v1\Image\Azure-RMS_Step-5_Cascade.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/Azure-RMS_Step-5_Cascade.png)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 ##### <a name='88e697641696002884880857174a50a15d094640103'></a> Source: [oltest1_azureright\v1\Image\RMS_BYOK_cloud.png](https://github.com/kimizhu/oltest1_azureright/blob/c67e9099e92ae236888c104c177a9624ec146b01/oltest1_azureright/v1/Image/RMS_BYOK_cloud.png)
@@ -1903,96 +1691,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9a4fa874a866c63638dcda1d9c5e686e12da70d2130'></a> Source: [oltest1_azureright\v1\Topic\Activating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Activating_Azure_Rights_Management.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Activating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Activating_Azure_Rights_Management.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 ##### <a name='899c550d69d06f072180a1398c0f456be0849f1d131'></a> Source: [oltest1_azureright\v1\Topic\Active_Directory_Rights_Management_Services_Mobile_Device_Extension.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Active_Directory_Rights_Management_Services_Mobile_Device_Extension.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [Active_Directory_Rights_Management_Services_Mobile_Device_Extension.7882c5251fa869cf41814623d4b6ed68dcba8543.fi-fi.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b068edb73108bb7f41cec534e77f2834b5f99a68/ol-handoff/kimizhu/oltest1_azureright.fi-fi/master/Active_Directory_Rights_Management_Services_Mobile_Device_Extension.7882c5251fa869cf41814623d4b6ed68dcba8543.fi-fi.xlf)
 * Handoff Datetime: 2016-01-27 09:31:26
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='3bd27fb713e2b0a71289cd8028bc2d5406241eae132'></a> Source: [oltest1_azureright\v1\Topic\Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='cdfcad34349b041ceb2743018e43db141a324d1b133'></a> Source: [oltest1_azureright\v1\Topic\Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Azure_Rights_Management.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Azure_Rights_Management.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='a599911557dcb5d8756051257f6dbe19d222be8c134'></a> Source: [oltest1_azureright\v1\Topic\Azure_Rights_Management_Deployment_Roadmap.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Azure_Rights_Management_Deployment_Roadmap.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Azure_Rights_Management_Deployment_Roadmap.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Azure_Rights_Management_Deployment_Roadmap.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='74a17e58ad433b9652b4b8974981841e90f0a088135'></a> Source: [oltest1_azureright\v1\Topic\Comparing_Azure_Rights_Management_and_AD_RMS.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Comparing_Azure_Rights_Management_and_AD_RMS.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Comparing_Azure_Rights_Management_and_AD_RMS.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Comparing_Azure_Rights_Management_and_AD_RMS.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='3fff7a6d69b3be986f4be35ab0479d9e05502ac8136'></a> Source: [oltest1_azureright\v1\Topic\Configuring_Applications_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Applications_for_Azure_Rights_Management.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Configuring_Applications_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Configuring_Applications_for_Azure_Rights_Management.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='7b4ef01b63e49eff3eb6f518f0e0985911151b3d137'></a> Source: [oltest1_azureright\v1\Topic\Configuring_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Configuring_Azure_Rights_Management.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Configuring_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Configuring_Azure_Rights_Management.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -2029,18 +1733,6 @@
 * Handoff File: [Configuring_Usage_Rights_for_Azure_Rights_Management.aba9049f20228ba8313756077d705bcc74fd04cb.fi-fi.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b068edb73108bb7f41cec534e77f2834b5f99a68/ol-handoff/kimizhu/oltest1_azureright.fi-fi/master/Configuring_Usage_Rights_for_Azure_Rights_Management.aba9049f20228ba8313756077d705bcc74fd04cb.fi-fi.xlf)
 * Handoff Datetime: 2016-01-27 09:31:26
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f34c47bd3d784417b52e4b63c7bdea01374161cb141'></a> Source: [oltest1_azureright\v1\Topic\Decommissioning_and_Deactivating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Decommissioning_and_Deactivating_Azure_Rights_Management.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Decommissioning_and_Deactivating_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Decommissioning_and_Deactivating_Azure_Rights_Management.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -2311,36 +2003,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cd268b3a52362794c148fd7033a2eb2b06ee5ded164'></a> Source: [oltest1_azureright\v1\Topic\Getting_Started_with_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Getting_Started_with_Azure_Rights_Management.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Getting_Started_with_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Getting_Started_with_Azure_Rights_Management.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 ##### <a name='4c2c03d921a9dc1e6a09c09dc5504676300340a3165'></a> Source: [oltest1_azureright\v1\Topic\Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.a8f64b7fd7d129708f84931a0b6ad930071ef236.fi-fi.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b068edb73108bb7f41cec534e77f2834b5f99a68/ol-handoff/kimizhu/oltest1_azureright.fi-fi/master/Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.a8f64b7fd7d129708f84931a0b6ad930071ef236.fi-fi.xlf)
 * Handoff Datetime: 2016-01-27 09:31:26
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='fe22011f9a191f3c44848ed914624650b26596eb166'></a> Source: [oltest1_azureright\v1\Topic\How_Applications_Support_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/How_Applications_Support_Azure_Rights_Management.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\How_Applications_Support_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/How_Applications_Support_Azure_Rights_Management.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -2365,18 +2033,6 @@
 * Handoff File: [Information_and_Support_for_Azure_Rights_Management.edd55387f5cf60d0c8ef1d7912d851f5d28514ac.fi-fi.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b068edb73108bb7f41cec534e77f2834b5f99a68/ol-handoff/kimizhu/oltest1_azureright.fi-fi/master/Information_and_Support_for_Azure_Rights_Management.edd55387f5cf60d0c8ef1d7912d851f5d28514ac.fi-fi.xlf)
 * Handoff Datetime: 2016-01-27 09:31:26
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='2ab8099a56e548e53ddcd499d64221efbe7b2373169'></a> Source: [oltest1_azureright\v1\Topic\Installing_Windows_PowerShell_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Installing_Windows_PowerShell_for_Azure_Rights_Management.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Installing_Windows_PowerShell_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Installing_Windows_PowerShell_for_Azure_Rights_Management.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -2437,18 +2093,6 @@
 * Handoff File: [Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.9ea12f63a1619dbd5b096303b732d58c3cddc3a4.fi-fi.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b068edb73108bb7f41cec534e77f2834b5f99a68/ol-handoff/kimizhu/oltest1_azureright.fi-fi/master/Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.9ea12f63a1619dbd5b096303b732d58c3cddc3a4.fi-fi.xlf)
 * Handoff Datetime: 2016-01-27 09:31:26
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='27f99957a9b9a560a127e6e3a4142ad0ba706d27175'></a> Source: [oltest1_azureright\v1\Topic\Preparing_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Preparing_for_Azure_Rights_Management.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Preparing_for_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Preparing_for_Azure_Rights_Management.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -2816,30 +2460,6 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9951dd37ad7cb7d3366da4e5d91d60cdcf09d3b9206'></a> Source: [oltest1_azureright\v1\Topic\Using_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Using_Azure_Rights_Management.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Using_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Using_Azure_Rights_Management.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='00d2f85391fa70bc782aef6db4a127730f9afc08207'></a> Source: [oltest1_azureright\v1\Topic\Verifying_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/Verifying_Azure_Rights_Management.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\Verifying_Azure_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/Verifying_Azure_Rights_Management.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 ##### <a name='c6f43e74df2f482240ea769f81eba10b4dbe4fc5208'></a> Source: [oltest1_azureright\v1\Topic\View_and_use_files_that_have_been_protected_by_Rights_Management.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/View_and_use_files_that_have_been_protected_by_Rights_Management.md)
 * Status: HandedOffSuccess
 * Target File: 
@@ -2870,18 +2490,6 @@
 * Handoff File: [Welcome_to_Microsoft_RMS!_Test.d0f7639c4004cd9c4ec04b92b38aa80e9aa1d985.fi-fi.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b068edb73108bb7f41cec534e77f2834b5f99a68/ol-handoff/kimizhu/oltest1_azureright.fi-fi/master/Welcome_to_Microsoft_RMS!_Test.d0f7639c4004cd9c4ec04b92b38aa80e9aa1d985.fi-fi.xlf)
 * Handoff Datetime: 2016-01-27 09:31:26
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='8590c552cf1c89ebecffa587090d3ab84711aa9e211'></a> Source: [oltest1_azureright\v1\Topic\What_is_Azure_Rights_Management_.md](https://github.com/kimizhu/oltest1_azureright/blob/7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff/oltest1_azureright/v1/Topic/What_is_Azure_Rights_Management_.md)
-* Status: Ignored
-* Target File: [oltest1_azureright\v1\Topic\What_is_Azure_Rights_Management_.md](https://github.com/kimizhu/oltest1_azureright.fi-fi/blob/5cb4f7a996983318c5e2228414eb1f8a3a75c7fb/oltest1_azureright/v1/Topic/What_is_Azure_Rights_Management_.md)
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
